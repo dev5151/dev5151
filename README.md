@@ -10,4 +10,4 @@
 <hr>
 
 ![Devansh Mehta's github stats](https://github-readme-stats.vercel.app/api?username=dev5151&theme=great-gatsby&show_icons=true)
- 
+<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=dev5151&hide=html,java&theme=highcontrast"> 
