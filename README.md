@@ -1,4 +1,4 @@
-### Hi I'm Devansh <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+### Hi there, I'm Devansh Mehta <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 <h2><b>aka ORION</b></h2>
 
 - 🔭 I’m currently working on projects related to Android, NodeJS and Flask
